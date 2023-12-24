@@ -10,5 +10,5 @@ Create a Mini-program to automatically test millions of  Page fault and extract 
 
 
 # Analysis file
-1. excel output: (automatically created by main file)
-2. VIsualization analysis: 
+1. excel output: result from exc_memsim.xlsx (automatically created by main file)
+2. VIsualization analysis: AnalysisGraph.pdf
